@@ -1,0 +1,56 @@
+.page {
+  width: 500px;
+  height: 700px;
+  background-color: #d8d6d2;
+  margin-left: 20px;
+  padding:1%;
+}
+
+#article_title {
+  font-family: 'Anton', sans-serif;
+  font-weight: bold;
+  letter-spacing: 5px;
+  font-size: 250%;
+  margin-bottom: 5%;
+  margin-top: 1%;
+  color: #5a1b32;
+  border: 10px solid transparent;
+  border-image: url(https://dejpknyizje2n.cloudfront.net/svgcustom/clipart/preview/border-design-2951-14223-550x550.png) 20% repeat;
+}
+
+#intro {
+  font-family: 'Oswald', sans-serif;
+  font-weight: bolder;
+  font-size: 130%;
+  line-height: 200%;
+  color: #9c424b;
+}
+
+.question{
+  font-family: 'Raleway', sans-serif;
+  font-weight: bolder;
+  font-size: 100%;
+  color: #5d6574;
+  margin-bottom: 0px;
+}
+
+.answer{
+  font-family: 'Raleway', sans-serif;
+  font-weight: normal;
+  font-size: 100%;
+  color: #5e6972;
+  margin: 0px;
+}
+
+#block_quote {
+  font-family: 'Oswald', sans-serif;
+  font-weight: bolder;
+  font-size: 130%;
+  line-height: 115%;
+  margin-left: 25%;
+  margin-right: 25%;
+  color: #9c424b;
+  border-left: 2px solid #4C5760;
+  padding-left: 5px;
+  text-shadow: 5px 5px 5px #cca4b3;
+}
